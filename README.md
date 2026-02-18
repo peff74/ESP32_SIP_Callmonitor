@@ -128,3 +128,7 @@ Everything else (SIP, LED, UDP) works unchanged.
 ## License
 
 MIT – do whatever you like with it.
+
+---
+
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fpeff74%2FESP32_SIP_Callmonitor&label=Hits&icon=github&color=%23198754&message=&style=flat&tz=UTC)
